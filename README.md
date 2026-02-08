@@ -1,27 +1,30 @@
-# Bilingual Presentation of Achievements / Presentación Bilingüe de Logros
+# Bilingual Presentation
 
-## Timeline of Achievements / Línea de Tiempo de Logros
+## Timeline from 2009 to 2025
 
-**2009**
-- **English:** Founded the company with a vision to innovate in tech.
-- **Spanish:** Se fundó la empresa con la visión de innovar en tecnología.
+### 2009
+- Introduction to Batch scripting
 
-**2012**
-- **English:** Launched the first product, receiving critical acclaim.
-- **Spanish:** Se lanzó el primer producto, recibiendo aclamaciones de la crítica.
+### 2010
+- Learning VB.NET
 
-**2015**
-- **English:** Expanded to international markets, establishing a global presence.
-- **Spanish:** Se expandió a mercados internacionales, estableciendo una presencia global.
+### 2011
+- Transitioning to C#
 
-**2018**
-- **English:** Introduced a groundbreaking solution that revolutionized the industry.
-- **Spanish:** Se introdujo una solución innovadora que revolucionó la industria.
+### 2015
+- Developing games with Unity3D
 
-**2021**
-- **English:** Achieved milestones in sustainability and social responsibility.
-- **Spanish:** Se lograron hitos en sostenibilidad y responsabilidad social.
+### 2018
+- Exploring Linux systems
 
-**2025**
-- **English:** Celebrated 16 years of success and community impact.
-- **Spanish:** Celebró 16 años de éxito e impacto en la comunidad.
+### 2020
+- Creating Gentoo LiveUSB installer with unsquashfs and Zenity
+
+### 2023
+- MBRExtractor utility development
+
+### 2025
+- Future trends and technologies
+
+## Summary
+This presentation outlines the journey from Batch scripting to modern developments in programming and software development.
