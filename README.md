@@ -1,12 +1,12 @@
 # Devscan02 (Isaac)
 
-Soy Isaac — alias Devscan02. Desarrollador y entusiasta de sistemas, scripting y herramientas de bajo nivel. Me centro en automatización, utilidades para sistemas Linux y proyectos que faciliten instalación, recuperación y análisis de arranque.
+👨🏻‍💻 Soy Isaac — alias Devscan02. Desarrollador y entusiasta de sistemas, scripting y herramientas de bajo nivel. Me centro en automatización, utilidades para sistemas Linux 🐧y proyectos que faciliten instalación, recuperación y análisis de arranque.
 
 ## Línea de tiempo
 
-- **2009** — Creación de Batch scripts y aplicaciones en VB.NET. Primeras aplicaciones con GUI en Windows.
-- **2013** — Primer contacto con **C#** (desarrollo con Unity3D).
-- **2016** — Primer contacto con **Linux**.
+- **2009** — Creación de Batch scripts y aplicaciones en VB.NET. Primeras aplicaciones con GUI en Windows. 🪟
+- **2013** — Primer contacto con **C#** (desarrollo con Unity3D). 🎮
+- **2016** — Primer contacto con **Linux**. 🐧
 - **2020** — Aprendí a usar Linux (nivel: intermedio).
 - **2022** — Creación de un instalador en **Bash** para Gentoo en su versión LiveUSB, usando:
   - `unsquashfs` para manipular imágenes squashfs.
