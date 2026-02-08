@@ -1,14 +1,27 @@
-# Biography
+# Bilingual Presentation of Achievements / Presentación Bilingüe de Logros
 
-## Isaac
+## Timeline of Achievements / Línea de Tiempo de Logros
 
-I am a 23-year-old developer with a passion for technology and software development. My journey began in Batch in 2009, where I first discovered my love for coding. Since then, I have continually expanded my skills and knowledge in various programming languages and technologies.
+**2009**
+- **English:** Founded the company with a vision to innovate in tech.
+- **Spanish:** Se fundó la empresa con la visión de innovar en tecnología.
 
-### Experience
-- **Batch (2009):** My first experience with programming.
-- **Linux (2016):** I have been working with Linux-based systems since 2016, developing a deep understanding of its workings and capabilities.
-- **Gentoo Installer Project (2022):** In 2022, I participated in the Gentoo installer project, contributing to the development and deployment of installation tools.
+**2012**
+- **English:** Launched the first product, receiving critical acclaim.
+- **Spanish:** Se lanzó el primer producto, recibiendo aclamaciones de la crítica.
 
-## Portfolio
+**2015**
+- **English:** Expanded to international markets, establishing a global presence.
+- **Spanish:** Se expandió a mercados internacionales, estableciendo una presencia global.
 
-I am currently focused on various personal projects and collaborations. You can view my work and contributions on my [GitHub profile](https://github.com/devscan02).
+**2018**
+- **English:** Introduced a groundbreaking solution that revolutionized the industry.
+- **Spanish:** Se introdujo una solución innovadora que revolucionó la industria.
+
+**2021**
+- **English:** Achieved milestones in sustainability and social responsibility.
+- **Spanish:** Se lograron hitos en sostenibilidad y responsabilidad social.
+
+**2025**
+- **English:** Celebrated 16 years of success and community impact.
+- **Spanish:** Celebró 16 años de éxito e impacto en la comunidad.
